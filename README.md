@@ -4,4 +4,5 @@ Accurate prediction of protein-protein interactions (PPIs) is pivotal for precis
 
 ## Key Features
 DNN-based PPI prediction model.
+
 Self-attention mechanism for improved accuracy.
