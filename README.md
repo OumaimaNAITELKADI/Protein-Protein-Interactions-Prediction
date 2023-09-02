@@ -8,3 +8,4 @@ DNN-based PPI prediction model.
 Self-attention mechanism for improved accuracy.
 
 Integration of Bayesian optimization for hyperparameter tuning.
+
